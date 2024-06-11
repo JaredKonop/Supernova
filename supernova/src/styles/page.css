@@ -1,0 +1,19 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #888888; /* Light grey background */
+  text-align: center;
+}
+
+.page h1 {
+  font-size: 4rem;
+  color: #333;
+}
+
+.page p {
+  font-size: 2rem;
+  color: #666;
+}
