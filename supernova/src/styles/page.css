@@ -4,16 +4,36 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #d00b0b; /* Light grey background */
+  background-color: #f905c4; /* Pinkish */
   text-align: center;
 }
 
 .page h1 {
   font-size: 4rem;
-  color: #333;
+  color: black;
 }
 
 .page p {
   font-size: 2rem;
-  color: #666;
+  color: black;
+}
+
+.page {
+  padding: 200px;
+}
+
+.content {
+  display: flex;
+  align-items: flex-start;
+}
+
+.nova-pic {
+  margin-right: 25px;
+  width: 170px;
+  height: auto;
+}
+
+p {
+  flex: 1;
+  word-wrap: break-word;
 }

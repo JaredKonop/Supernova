@@ -44,10 +44,10 @@ const Navbar = () => {
               <Link to="/bandanas">Bandanas</Link>
             </li>
             <li>
-              <Link to="/custom-clothes">Custom Clothes</Link>
+              <Link to="/custom-items">Custom items</Link>
             </li>
             <li>
-              <Link to="/custom-items">Custom Items</Link>
+              <Link to="/custom-form">Custom Form</Link>
             </li>
           </ul>
         </div>

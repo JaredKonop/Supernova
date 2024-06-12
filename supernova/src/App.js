@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "../src/components/Navbar";
 import Home from "../src/pages/Home";
 import Bandanas from "../src/pages/Bandanas";
-import CustomClothes from "../src/pages/CustomClothes";
+import CustomClothes from "../src/pages/CustomForm";
 import CustomItems from "../src/pages/CustomItems";
 import "../src/styles/navbar.css";
 
